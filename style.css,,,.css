@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: maroon;
+}
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+h2 {
+    color: #333;
+}
+input {
+    margin: 5px 0;
+    padding: 10px;
+    width: calc(100% - 22px);
+    border: 1px solid maroon;
+    border-radius: 4px;
+}
+button {
+    padding: 10px;
+    background-color: maroon;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: maroon;
+}
+p {
+    margin-top: 10px;
+    font-weight: bold;
+}
